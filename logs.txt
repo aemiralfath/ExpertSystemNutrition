@@ -1,0 +1,630 @@
+
+<Known/Deducted facts>#Rules Fires#NewlyEntailedFacts
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+LK, REMAJA, G, P8, # LKG :- LK,G# LKG
+LK, REMAJA, G, P8, LKG, # M59 :- LKG,REMAJA,P8# M59
+-----------------------------------------------------------------------
+
+<Known/Deducted facts>#Rules Fires#NewlyEntailedFacts
+
+<Known/Deducted facts>#Rules Fires#NewlyEntailedFacts
